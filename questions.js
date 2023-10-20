@@ -1,71 +1,82 @@
   let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "يعمل جهاز الحاسب علي تحويل المعلومات الي البيانات؟",
+    answer: "خطاء",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "صح",
+      "خطاء",
+      "",
+      ""
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "يتكون نظام الحاسب من مكونات ماديو ومعنوية ومعلومات ومستخدمون؟",
+    answer: "خطاء",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "صح",
+      "خطاء",
+      "",
+      ""
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "هو معدة الكترونية يتحكم في عملة برامج مخزنة في ذاكرتة الخاصة؟",
+    answer: "جهاز الحاسب",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "نظام الحاسب",
+      "جهاز الحاسب",
+      "اوب معنا",
+      "لا توجد اجابة صحيحة"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "بدا استخدام الحاسب الالي بشكل تجاري في عام",
+    answer: "1951",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "1915",
+      "1946",
+      "1964",
+      "1951"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "من خصائص الجيل الاول من الحاسبات؟",
+    answer: "البرمجة بلغة الالة",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "البرمجة بلغة التجميع",
+      "البرمجة بلغة الالة",
+      "يعتمد في تصنيعة علي الترانزستور",
+      "يعتمد في تصنية علي (Ic)"
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
-  //   {
-  //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
-  //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
-  //   ]
-  // },
+    {
+  numb: 6,
+  question: "برامج النظام هي التي يستخدمها المستخدمون لانجاز المهام؟",
+  answer: "خطاء",
+    options: [
+      "صح",
+      "خطاء",
+      "",
+      ""
+    ]
+  },
+
+
+    {
+  numb: 6,
+  question: "من اهم ملامح الجيل الخامس ظهور الحاسبات الشخصية",
+  answer: "خطاء",
+    options: [
+      "صح",
+      "خطاء",
+      "",
+      ""
+    ]
+  },
 ];
