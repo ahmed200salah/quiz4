@@ -385,3 +385,16 @@ footer button.show{
 .tap{
     color: #b90373;
 }
+@media screen and (max-width: 600px) {
+    .info_box{
+            width: 350px;
+    }
+    .start_btn{
+        width: 400px;
+        margin-left: 80px;
+    }
+    .quiz_box{
+        width: 400px;
+    }
+
+}
