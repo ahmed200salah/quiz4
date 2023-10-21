@@ -1,67 +1,67 @@
   let questions = [
     {
     numb: 1,
-    question: "يعمل جهاز الحاسب علي تحويل المعلومات الي البيانات؟",
-    answer: "خطاء",
+    question: "..... is essential not only for business concerns but also for banks.schools,colleges,hospitals,hotels.",
+    answer: "Management",
     options: [
-      "صح",
-      "خطاء",
-      "",
-      ""
+      "Management",
+      "objectives",
+      "subjects",
+      "si"
     ]
   },
     {
     numb: 2,
-    question: "يتكون نظام الحاسب من مكونات مادية ومعنوية ومعلومات ومستخدمون؟",
-    answer: "خطاء",
+    question: "..... has started in his famous book {The Practice of Management} that, the emergence of Management as an essential, a distinct and leading social institution is a pivotal event in social history",
+    answer: "Peter F.Drucker",
     options: [
-      "صح",
-      "خطاء",
-      "",
-      ""
+      "Peter F.Drucker",
+      "Ordway tead",
+      "ralph C.Davis",
+      "Devid messi"
     ]
   },
     {
     numb: 3,
-    question: "هو معدة الكترونية يتحكم في عملة برامج مخزنة في ذاكرتة الخاصة؟",
-    answer: "جهاز الحاسب",
+    question: "Management is not people; it is an activity like walking reading, swimming or running. people who perform Management can be designated as members of Management or executive leaders according to .....",
+    answer: "Ordway tead",
     options: [
-      "نظام الحاسب",
-      "جهاز الحاسب",
-      "اوب معنا",
-      "لا توجد اجابة صحيحة"
+      "ralph C.Davis",
+      "Peter F.Drucker",
+      "Ordway tead",
+      "Devid messi"
     ]
   },
     {
     numb: 4,
-    question: "بدا استخدام الحاسب الالي بشكل تجاري في عام",
-    answer: "1951",
+    question: "Management is a ..... aspect pf the economic life of man, which is an organised group activity.",
+    answer: "vital",
     options: [
-      "1915",
-      "1946",
-      "1964",
-      "1951"
+      "Primary",
+      "vital",
+      "third",
+      "secondary"
     ]
   },
     {
     numb: 5,
-    question: "من خصائص الجيل الاول من الحاسبات؟",
-    answer: "البرمجة بلغة الالة",
+    question: "..... defined Management as an organ, organs can be described and defined only through their functions",
+    answer: "Peter F.Drucker",
     options: [
-      "البرمجة بلغة التجميع",
-      "البرمجة بلغة الالة",
-      "يعتمد في تصنيعة علي الترانزستور",
-      "يعتمد في تصنية علي (Ic)"
+      "Ordway tead",
+      "Peter F.Drucker",
+      "terry",
+      "ralph C.Davis"
     ]
   },
 
     {
   numb: 6,
-  question: "برامج النظام هي التي يستخدمها المستخدمون لانجاز المهام؟",
-  answer: "خطاء",
+  question: "Management is the sum-total of all those activities that Doesn't provide maximum prosperity and happimess for both employer and employees and public at large?",
+  answer: "False",
     options: [
-      "صح",
-      "خطاء",
+      "True",
+      "False",
       "",
       ""
     ]
@@ -69,14 +69,14 @@
 
 
     {
-  numb: 6,
-  question: "من اهم ملامح الجيل الخامس ظهور الحاسبات الشخصية",
-  answer: "خطاء",
+  numb: 7,
+  question: "Peter F.Drucker has stated in his famous book {..........} that, the emergence of Management as an essential, a distinct and leading social institution is a pivotal event in social history. , ",
+  answer: "The Practice of Management",
     options: [
-      "صح",
-      "خطاء",
-      "",
-      ""
+      "The Price",
+      "The making of a manager",
+      "Lifelong Learning and Growth",
+      "The Practice of Management"
     ]
   },
 ];
