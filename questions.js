@@ -1,7 +1,7 @@
   let questions = [
     {
     numb: 1,
-    question: "..... is essential not only for business concerns but also for banks.schools,colleges,hospitals,hotels.",
+    question: "..... is essential not only for business concerns but also for banks.schools,colleges,etc..",
     answer: "Management",
     options: [
       "Management",
