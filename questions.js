@@ -1,4 +1,4 @@
-  let questions = [
+ let questions = [
     {
     numb: 1,
     question: "دورة التنفيز تقوم بتنفيز التعليمه بوسطة وحدة التحكم",
