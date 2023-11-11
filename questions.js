@@ -88,15 +88,4 @@ answer: "برامج المعدات (تعريفات)Drivers",
         "المسجلات registers"
       ]
     },
-    {
-      numb: 9,
-      question: "الهدف من وجودها تسريع عمليه وصول البيانات الي المعالج       ",
-      answer: "cache memory",
-        options: [
-          "ssd",
-          "cache memory",
-          "Hdd",
-          "المسجلات registers"
-        ]
-      },
 ];
